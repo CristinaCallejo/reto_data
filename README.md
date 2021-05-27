@@ -1,5 +1,31 @@
 # Bienvenido al reto de Cobify 🚕
 
+
+
+
+
+python 3.8.5
+
+[numpy 1.20.2](https://pypi.org/project/numpy/)
+
+[pandas 1.2.4](https://pypi.org/project/pandas/)
+
+[seaborn 0.11.1](https://pypi.org/project/seaborn/)
+
+[matplotlib.pyplot 3.4.1](https://pypi.org/project/matplotlib/3.4.2/)
+
+[streamlit 0.82.0](https://pypi.org/project/streamlit/)
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://kamisetas.com/image/bordados/Cobi-Barcelona-92-parche.gif" alt="drawing" width="200"/>
 
 Cobify es una empresa dedicada al transporte de personas al estilo de Uber, Lyft o la propia Cabify que nos robó el nombre.
