@@ -16,6 +16,9 @@ python 3.8.5
 
 [streamlit 0.82.0](https://pypi.org/project/streamlit/)
 
+[openpyxl 3.0.7](https://pypi.org/project/openpyxl/)
+
+[scikit-learn 0.24.2](https://pypi.org/project/scikit-learn/)
 
 
 
